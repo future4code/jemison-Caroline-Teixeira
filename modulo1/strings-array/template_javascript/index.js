@@ -18,20 +18,32 @@
 
 // EXERCÍCIO DE ESCRITA DE CÓDIGO
 
-//1. let nomeDoUsuario = prompt('Qual é o seu nome?')
-// let emailDoUsuario = prompt("Qual seu email?")
-// console.log("O email", emailDoUsuario, "foi cadastrado com sucesso.", "Seja bem-vinda(o),", nomeDoUsuario,"!");
+//  const nomeDoUsuario = prompt('Qual é o seu nome?')
+// const emailDoUsuario = prompt("Qual seu email?")
+// const resposta = 'O email ' + emailDoUsuario +' foi cadastrado com sucesso Seja Bem-vinda(o)'  + nomeDoUsuario + '!'
+// console.log(resposta);
 
-// 2.let comidasPreferidas = [ 
-//     "Batata frita",
-//     "Churrasco",
-//     "Frango",
-//     "Salada",
-//     "Chocolate"
-// ]
+let comidasPreferidas = [ 
+    "Batata frita",
+    "Churrasco",
+    "Frango",
+    "Salada",
+    "Chocolate"
+]
 
-// a) console.log(comidasPreferidas);
-// b) console.log("Essas são minhas comidas preferidas:", comidasPreferidas);
+//  console.log(comidasPreferidas);
+//  console.log("Essas são as minhas comidas preferidas:", comidasPreferidas);
+//   let novaLista = comidasPreferidas.replaceAll("Churrasco","pão")
+//   console.log(comidasPreferidas);
+
+
+//   let novasComidas = comidasPreferidas.replaceAll("Churrasco","Pão")
+//   console.log(novasComidas);
+  
+ 
+ 
+
+
 
 //c)
 //3.
@@ -41,10 +53,6 @@
 // listaDeTarefas = prompt("Qual a segunda tarefa?")
 // listaDeTarefas = prompt("Qual a terceira tarefa?")
 // console.log(listaDeTarefas);
-
-
-
-
 
 
 
